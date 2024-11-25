@@ -1,5 +1,5 @@
 # Daftar Isi
-- [C++](#c++)
+- [C++](#c--)
 - [Cara Penggunaan](#cara-penggunaan)
 - [Fitur](#fitur)
 - [Lisensi](#lisensi)
