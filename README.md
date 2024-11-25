@@ -1,5 +1,5 @@
 # Daftar Isi
-- [C++](#C++)
+- [C++](#c++)
 - [Cara Penggunaan](#cara-penggunaan)
 - [Fitur](#fitur)
 - [Lisensi](#lisensi)
@@ -15,5 +15,3 @@ Fitur utama yang tersedia...
 
 ## Lisensi
 Lisensi yang digunakan untuk proyek ini...
-
-jnbjhhhj
