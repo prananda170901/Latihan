@@ -1,5 +1,5 @@
 # Daftar Isi
-- [Pendahuluan](#pendahuluan)
+- [C++](#C++)
 - [Cara Penggunaan](#cara-penggunaan)
 - [Fitur](#fitur)
 - [Lisensi](#lisensi)
