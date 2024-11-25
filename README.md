@@ -4,7 +4,7 @@
 - [Fitur](#fitur)
 - [Lisensi](#lisensi)
 
-## Pendahuluan
+## C++
 Ini adalah bagian pendahuluan...
 
 ## Cara Penggunaan
