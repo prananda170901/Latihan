@@ -11,3 +11,8 @@ Y = 2
 
 print(X)
 print(Y)    
+
+print("   /|")
+print("  / |")
+print(" /  |")
+print("/___|")
